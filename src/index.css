@@ -1,0 +1,13 @@
+/** @type {import('tailwindcss').Config} */
+@import "tailwindcss";
+
+@tailwind utilities;
+html {
+    scroll-behavior: smooth;
+  }
+
+
+
+
+
+
